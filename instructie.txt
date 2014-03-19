@@ -1,2 +1,1 @@
-Met „git hash-object <file>” is het mogelijk de SHA1 te achterhalen van een bestand.f
-Ga door naar de vorige versie.
+Bekijk de vorige versie van dit bestand eens.
