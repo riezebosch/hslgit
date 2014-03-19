@@ -1,0 +1,1 @@
+Het wachtwoorden van het archief is de SHA1 hash van de blob van dit tekstdocument.
