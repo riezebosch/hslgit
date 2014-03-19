@@ -1,1 +1,2 @@
-De laatste hint naar het wachtwoord vindt je in de vorige versie van dit bestand.
+Met „git hash-object <file>” is het mogelijk de SHA1 te achterhalen van een bestand.f
+Ga door naar de vorige versie.
